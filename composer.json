@@ -1,0 +1,20 @@
+{
+    "name": "ghockin/webinar-php",
+    "require": {
+        "geeh/ropapors-bot": "*",
+        "twilio/sdk": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "git@github.com:GeeH/ropapsors-bot.git"
+        }
+    ],
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Gary Hockin",
+            "email": "gary@hock.in"
+        }
+    ]
+}
